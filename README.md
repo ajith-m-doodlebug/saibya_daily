@@ -7,22 +7,17 @@ SAIBYA Daily is a comprehensive wellness tracking application that helps users m
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/showcase/screen-login.png" width="200" alt="Login Screen"></td>
-      <td><img src="assets/showcase/screen-home.png" width="200" alt="Home Screen"></td>
-      <td><img src="assets/showcase/screen-stats.png" width="200" alt="Stats Screen"></td>
-      <td><img src="assets/showcase/screen-log.png" width="200" alt="Log Screen"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Login</b></td>
-      <td align="center"><b>Dashboard</b></td>
-      <td align="center"><b>Statistics</b></td>
-      <td align="center"><b>Wellness Log</b></td>
+      <td><img src="assets/showcase/one.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/two.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/three.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/four.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/five.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/six.jpeg" width="200" alt="Login Screen"></td>
     </tr>
   </table>
 </div>
 
 ## 🎥 Demo Video
-
 <div align="center">
   <a href="https://youtu.be/your-demo-video">
     <img src="assets/showcase/video-thumbnail.png" alt="Demo Video" width="600">
