@@ -12,6 +12,7 @@ SAIBYA Daily is a comprehensive wellness tracking application that helps users m
       <td><img src="assets/showcase/nine.jpeg" width="200" alt="Login Screen"></td>
       <td><img src="assets/showcase/ten.jpeg" width="200" alt="Login Screen"></td>
       <td><img src="assets/showcase/eleven.jpeg" width="200" alt="Login Screen"></td>
+      <td><img src="assets/showcase/twelve.jpeg" width="200" alt="Login Screen"></td>
     </tr>
     <tr>
       <td><img src="assets/showcase/one.jpeg" width="200" alt="Login Screen"></td>
