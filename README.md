@@ -1,3 +1,5 @@
+#### Note: To use the Application, I have to start the server. So, let me know.
+
 # 🌟 SAIBYA Daily - Wellness Tracker Application
 
 ## 📱 Overview
