@@ -1,14 +1,5 @@
 # 🌟 SAIBYA Daily - Wellness Tracker Application
 
-<div align="center">
-  <img src="assets/showcase/app-banner.png" alt="SAIBYA Daily Banner" width="100%">
-  
-  [![Flutter](https://img.shields.io/badge/Flutter-3.6.1-blue.svg)](https://flutter.dev)
-  [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)](https://fastapi.tiangolo.com)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![APK Download](https://img.shields.io/badge/APK-Download-orange.svg)](https://github.com/yourusername/saibya-daily/releases/download/v1.0.0/saibya-daily.apk)
-</div>
-
 ## 📱 Overview
 
 SAIBYA Daily is a comprehensive wellness tracking application that helps users monitor their daily health metrics. Built with Flutter for cross-platform mobile experience and FastAPI for a robust backend, it features OTP-based authentication and intuitive wellness logging.
@@ -66,23 +57,19 @@ SAIBYA Daily is a comprehensive wellness tracking application that helps users m
   <tr>
     <td align="center" width="50%">
       <h3>Frontend</h3>
-      <img src="assets/showcase/flutter-logo.png" width="100" alt="Flutter">
       <br><br>
-      <b>Flutter 3.6.1</b><br>
       Cross-platform mobile framework
       <br><br>
-      <a href="https://github.com/yourusername/saibya-daily-flutter">
+      <a href="https://github.com/ajith-m-doodlebug/saibya_daily_flutter">
         📱 View Frontend Repository
       </a>
     </td>
     <td align="center" width="50%">
       <h3>Backend</h3>
-      <img src="assets/showcase/fastapi-logo.png" width="100" alt="FastAPI">
       <br><br>
-      <b>FastAPI</b><br>
       Modern Python web framework
       <br><br>
-      <a href="https://github.com/yourusername/saibya-daily-backend">
+      <a href="https://github.com/ajith-m-doodlebug/saibya_daily_backend">
         🚀 View Backend Repository
       </a>
     </td>
