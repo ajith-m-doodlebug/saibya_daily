@@ -19,8 +19,7 @@ SAIBYA Daily is a comprehensive wellness tracking application that helps users m
 
 ## 🎥 Demo Video
 <div align="center">
-  <a href="https://youtu.be/your-demo-video">
-    <img src="assets/showcase/video-thumbnail.png" alt="Demo Video" width="600">
+  <a href="https://github.com/ajith-m-doodlebug/saibya_daily/blob/main/Saibya%20Daily%20Demo%20Video.mp4">
   </a>
   
   *Click to watch the demo video*
